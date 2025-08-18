@@ -26,7 +26,13 @@ let booleanIsLoggedIn  =  Boolean(isLoggedIn);
 // console.log(null > 0);
 // console.log(null <= 0);
 
-console.log(undefined == 0);
-console.log(undefined > 0);
-console.log(undefined >= 0);
+// console.log(undefined == 0);
+// console.log(undefined > 0);
+// console.log(undefined >= 0);
+
+// always flase in undefined
+
+// ===
+// console.log("2" === 2);
+// answer will be false becouse type of the data is different
 
