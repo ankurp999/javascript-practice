@@ -72,6 +72,8 @@ Community Service Learning (CSL) modules for Class 3 students (age 8-9) in India
 - **implementation_guide.js** — Week-by-week teacher instructions, material lists, and NEP 2020 alignment for each module
 - **assessment_toolkit.js** — Scoring functions, pre/post-test comparison, student reports, and class-level statistics
 
+> **Note:** The output previews below are abbreviated. Run the files with `node` for complete output (600+ lines total).
+
 <details>
 <summary>📋 Click to see output of module_framework.js</summary>
 
@@ -255,6 +257,7 @@ Estimated Total Hours: 30
 Civic Values Assessed: 7
 Maximum Score: 21
 Scoring: Emerging (1), Developing (2), Achieved (3)
+... (full scoring rubric and behavioral indicators for all 7 values)
 
 === Pre-Test Reports (Before CSL Intervention) ===
   Aarav:  10/21 (47.6%) — Growing Citizen
@@ -280,6 +283,7 @@ Scoring: Emerging (1), Developing (2), Achieved (3)
 === Class-Level Statistics ===
   Pre-Test Average:  10.80/21
   Post-Test Average: 18.00/21
+  ... (includes per-value averages and highest/lowest scores)
   Overall Class Improvement: +7.20 points
 
 Conclusion: CSL integration shows measurable improvement in
